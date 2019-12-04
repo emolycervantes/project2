@@ -1,0 +1,160 @@
+body{
+  background-color:#748ead;
+}
+
+body.Campaign{
+  background-color:#7692b5;
+}
+
+body.data{
+  background-color:#4480c9;
+}
+
+body.environmental{
+  background-color:#235ea6;
+}
+
+h1.homepage  {
+  color: white;
+  font-size: 2em;
+  padding-top: 10px;
+  width: 100%;
+  font-family: Tahoma;
+  text-align: center;
+}
+
+h1.homepage1  {
+	color: white;
+  font-size: 3em;
+  padding-top: 10px;
+  width: 100%;
+  font-family: cursive;
+  text-align: center;
+	
+}
+
+h2.homepage {
+  font-family: Tahoma;
+  text-align: center;
+  color: white;
+
+}
+
+h3.homepage {
+  font-family: Tahoma;
+  text-align: center;
+  color: white;
+
+}
+
+
+a {
+  color: white;
+    font-size: 1.5em;
+
+}
+.grid {
+  border: 2px clear solid;
+  width: 800px;
+  height: 800px;
+  display: grid;
+  grid-gap: 60px;
+ grid-template-rows: repeat(5, 70px)
+   grid-template-columns:repeat(5, 70px)
+
+}
+
+.box {
+  color: black;
+  border-radius: 5px;
+  border:black solid;
+ font-family: Tahoma;
+  text-align: center;
+  color: black;
+}
+	  
+img {
+	border-radius: 50%;
+	width:210;
+	 position: center;
+	height: 300: 
+}
+
+
+
+img.third{
+		width:360;
+
+ top:570px;
+  left: 90px;
+}
+
+ h1.environmental {
+  color: white;
+  font-size: 3em;
+  padding-top: 10px;
+  width: 100%;
+  font-family: Tahoma;
+  text-align: center;
+
+ }
+ 
+ .griddata {
+  border: 2px clear solid;
+  width: 400px;
+  height: 920px;
+  display: grid;
+
+}
+
+h3 {
+	  color: white;
+}
+
+img.sleep{
+	width:215;
+	top:245px;
+	left: 840px;
+	height: 300: 
+}
+
+li {
+	color: white;
+
+}
+
+img.timer{
+	width:215;
+	top:730px;
+	left: 840px; 
+	height: 300: 
+}
+
+h2.center {
+	  text-align: center;
+	  	  color: white;
+
+}
+
+h2.forwhom {
+  font-family: cursive;
+}
+
+a.yellowlink {
+	 color: yellow;
+    font-size: 1.5em;
+	
+}
+img.clickherebutton{
+	
+	top:535px;
+	left: 555px;
+	
+}
+img.clickherebutton2{
+	
+	top:115px;
+	left: 555px;
+	
+}
+
